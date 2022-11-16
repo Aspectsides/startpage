@@ -3,7 +3,7 @@ html {
     background-color: #171b20;
     color: #b6beca;
     display: flex;
-    font: 18px/1 "sans-serif";
+    font: 18px/1 "monospace";
     height: 100%;
     justify-content: center;
 }
