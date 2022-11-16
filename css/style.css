@@ -1,18 +1,18 @@
 html {
     align-items: center;
-    background-color: #131A21;
-    color: #ffffff;
+    background-color: #171b20;
+    color: #b6beca;
     display: flex;
-    font: 18px/1 "Sarasa Mono K";
+    font: 18px/1 "sans-serif";
     height: 100%;
     justify-content: center;
 }
 
 body {
-    background-color: #29343d;
+    background-color: #13171b;
     box-shadow: 0px 0px 9px #1d1f2187;
     border-radius: 6px;
-    color: #ffffff;
+    color: #b6beca;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -54,7 +54,7 @@ nav {
 
 
 p #cursor {
-    background-color: #9ce5c0;
+    background-color: #78dba9;
     animation: blink 2s infinite;
 }
 
