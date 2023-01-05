@@ -1,7 +1,7 @@
 html {
     align-items: center;
-    background-color: #171b20;
-    color: #b6beca;
+    background-color: #101010;
+    color: #cbf3f3;
     display: flex;
     font: 18px/1 "monospace";
     height: 100%;
@@ -9,10 +9,10 @@ html {
 }
 
 body {
-    background-color: #13171b;
+    background-color: #0d0d0d;
     box-shadow: 0px 0px 9px #1d1f2187;
     border-radius: 6px;
-    color: #b6beca;
+    color: #cbf3f3;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -26,7 +26,7 @@ p {
 }
 
 p span {
-    color: #9ce5c0;
+    color: #49acaa;
 }
 
 a {
@@ -54,7 +54,7 @@ nav {
 
 
 p #cursor {
-    background-color: #78dba9;
+    background-color: #49acaa;
     animation: blink 2s infinite;
 }
 
